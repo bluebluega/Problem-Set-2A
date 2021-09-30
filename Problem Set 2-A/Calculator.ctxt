@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=
+comment1.target=void\ display()
+comment2.params=a\ b\ c
+comment2.target=double\ qMinus(double,\ double,\ double)
+comment3.params=a\ b\ c
+comment3.target=double\ qPlus(double,\ double,\ double)
+comment4.params=x1\ y1\ x2\ y2
+comment4.target=double\ slope(double,\ double,\ double,\ double)
+comment5.params=x1\ x2
+comment5.target=double\ mX(double,\ double)
+comment6.params=y1\ y2
+comment6.target=double\ mY(double,\ double)
+comment7.params=k\ a1\ a2
+comment7.target=double\ s(int,\ double,\ double)
+comment8.params=k1\ g\ r
+comment8.target=double\ S(double,\ double,\ double)
+numComments=9
